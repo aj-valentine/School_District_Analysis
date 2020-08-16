@@ -24,7 +24,7 @@ This information will be helpful to superintendents and the advisory board on ho
 ### 2. How is the school summary affected?
 Like above, the first screenshot is the unaltered data and the second details our results without the ninth-grade scores. The information was only adjusted for Thomas High School, so we can see the metrics that changed are for that school line only. 
 
-**Changes between the metrics:**
+**Changes between the metrics for Thomas High School:**
 - % Passing Math from 66.9% to 93.19%
 - % Passing Reading from 69.7% to 97.0%
 - % Overall Passing from 65.1% to 90.6% 
@@ -33,9 +33,9 @@ Like above, the first screenshot is the unaltered data and the second details ou
 
 <img width="728" alt="school_summary 2 PNG" src="https://user-images.githubusercontent.com/67871338/90344347-f8ed6100-dfe6-11ea-9b25-503ff053e97b.PNG">
 
-
-
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+By eliminating the ninth-grade scores, Thomas High School's math and reading performance increased. Relative to other schools, it increased its % Overall Passing from 65.1% to 90.6% and changed rank to # 2 overall in the school list. 
+
 ### 4. How does replacing the ninth-grade scores affect the following: 
 ####    - Math and reading scores by grade
 ####    - Scores by school spending
