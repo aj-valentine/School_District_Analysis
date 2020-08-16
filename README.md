@@ -16,8 +16,12 @@ This information will be helpful to superintendents and the advisory board on ho
 - % Passing Math from 75.0% to 74.8% 
 - % Passing Reading from 85.8% to 85.7%
 - % Overall Passing from 65.2% to 64.9%
+
+Original Data:
  
 <img width="707" alt="district_summary_1 " src="https://user-images.githubusercontent.com/67871338/90343932-26d0a680-dfe3-11ea-8fd1-452b09bd0b76.PNG">
+
+Altered Data: 
 
 <img width="699" alt="district_summary_2 " src="https://user-images.githubusercontent.com/67871338/90343934-29cb9700-dfe3-11ea-9cdf-74617d608bc1.PNG">
  
@@ -29,7 +33,11 @@ Like above, the first screenshot is the unaltered data and the second details ou
 - % Passing Reading from 69.7% to 97.0%
 - % Overall Passing from 65.1% to 90.6% 
 
+Original Data: 
+
 <img width="725" alt="school_summary 1 PNG" src="https://user-images.githubusercontent.com/67871338/90344341-f3901680-dfe6-11ea-8dae-b97396442dc5.PNG">
+
+Altered Data: 
 
 <img width="728" alt="school_summary 2 PNG" src="https://user-images.githubusercontent.com/67871338/90344347-f8ed6100-dfe6-11ea-9b25-503ff053e97b.PNG">
 
@@ -41,10 +49,12 @@ By eliminating the ninth-grade scores, Thomas High School's math and reading per
 For math and reading scores by grade, the only metrics affected are those for ninth-grade Thomas High School, which was the only area that was altered. These scores now show up as "nan" because they do not currently have scores. None of the other grades change because their data was not altered. 
 
 Math Scores By Grade: 
+
 <img width="230" alt="grades_per_school_1_math" src="https://user-images.githubusercontent.com/67871338/90344796-2c31ef00-dfeb-11ea-94ad-29d629636077.PNG">
 <img width="232" alt="grades_per_school_2_math" src="https://user-images.githubusercontent.com/67871338/90344802-3522c080-dfeb-11ea-88eb-33dc5d75e25e.PNG">
 
 Reading Scores By Grade: 
+
 <img width="231" alt="grades_per_school_1_reading" src="https://user-images.githubusercontent.com/67871338/90344819-48359080-dfeb-11ea-89f8-619f3fcaa174.PNG">
 <img width="232" alt="grades_per_school_2_reading" src="https://user-images.githubusercontent.com/67871338/90344823-4a97ea80-dfeb-11ea-8646-5175c92a5bdc.PNG">
 
