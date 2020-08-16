@@ -10,7 +10,7 @@ This information will be helpful to superintendents and the advisory board on ho
 ### 1. How is the district summary affected? 
  In the screenshots below, the first snip is the original code run with the incorrect Thomas High School ninth-grade scores for math and reading. The second snip shows the results without the scores. The Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing metrics were slightly affected when the scores were taken out. 
  
-Changes between the metrics: 
+**Changes between the metrics:**
 - Average Math Score from 79.0 to 78.9
 - Average Reading Score remained flat at 81.9 
 - % Passing Math from 75.0% to 74.8% 
