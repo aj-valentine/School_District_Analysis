@@ -61,13 +61,20 @@ Altered Data:
 **Reading Scores By Grade:** 
 
 Original Data: 
+
 <img width="231" alt="grades_per_school_1_reading" src="https://user-images.githubusercontent.com/67871338/90344819-48359080-dfeb-11ea-89f8-619f3fcaa174.PNG">
+
 Altered Data: 
 
 <img width="232" alt="grades_per_school_2_reading" src="https://user-images.githubusercontent.com/67871338/90344823-4a97ea80-dfeb-11ea-8646-5175c92a5bdc.PNG">
 
-####    - Scores by school spending
-####    - Scores by school size
-####    - Scores by school type
+####    - Scores by school spending, school size, and school type
+None of the metrics changed for the scores by school spending, school size, and school type. All of these stayed consistent with the information from the dataset before. 
 
 ## Summary 
+In summary, the four major changes to the analysis after the reading and math scores were removed are: 
+
+ 1. % Passing Math 
+ 2. % Passing Reading 
+ 3. % Passing Overall 
+ 4. Rank of Thomas High School 
