@@ -22,6 +22,11 @@ This information will be helpful to superintendents and the advisory board on ho
 <img width="699" alt="district_summary_2 " src="https://user-images.githubusercontent.com/67871338/90343934-29cb9700-dfe3-11ea-9cdf-74617d608bc1.PNG">
  
 ### 2. How is the school summary affected?
+Like above, the first screenshot is the unaltered data and the second details our results without the ninth-grade scores. 
+
+<img width="729" alt="school_summary 1 PNG" src="https://user-images.githubusercontent.com/67871338/90344274-32719c80-dfe6-11ea-97e7-29a2bcfd7524.PNG">
+
+<img width="727" alt="school_summary 2 PNG" src="https://user-images.githubusercontent.com/67871338/90344275-36052380-dfe6-11ea-8a95-7f586a85d1c1.PNG">
 
 
 
