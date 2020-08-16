@@ -22,11 +22,16 @@ This information will be helpful to superintendents and the advisory board on ho
 <img width="699" alt="district_summary_2 " src="https://user-images.githubusercontent.com/67871338/90343934-29cb9700-dfe3-11ea-9cdf-74617d608bc1.PNG">
  
 ### 2. How is the school summary affected?
-Like above, the first screenshot is the unaltered data and the second details our results without the ninth-grade scores. 
+Like above, the first screenshot is the unaltered data and the second details our results without the ninth-grade scores. The information was only adjusted for Thomas High School, so we can see the metrics that changed are for that school line only. 
 
-<img width="729" alt="school_summary 1 PNG" src="https://user-images.githubusercontent.com/67871338/90344274-32719c80-dfe6-11ea-97e7-29a2bcfd7524.PNG">
+**Changes between the metrics:**
+- % Passing Math from 66.9% to 93.19%
+- % Passing Reading from 69.7% to 97.0%
+- % Overall Passing from 65.1% to 90.6% 
 
-<img width="727" alt="school_summary 2 PNG" src="https://user-images.githubusercontent.com/67871338/90344275-36052380-dfe6-11ea-8a95-7f586a85d1c1.PNG">
+<img width="725" alt="school_summary 1 PNG" src="https://user-images.githubusercontent.com/67871338/90344341-f3901680-dfe6-11ea-8dae-b97396442dc5.PNG">
+
+<img width="728" alt="school_summary 2 PNG" src="https://user-images.githubusercontent.com/67871338/90344347-f8ed6100-dfe6-11ea-9b25-503ff053e97b.PNG">
 
 
 
