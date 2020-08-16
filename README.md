@@ -20,9 +20,11 @@ This information will be helpful to superintendents and the advisory board on ho
 <img width="707" alt="district_summary_1 " src="https://user-images.githubusercontent.com/67871338/90343932-26d0a680-dfe3-11ea-8fd1-452b09bd0b76.PNG">
 
 <img width="699" alt="district_summary_2 " src="https://user-images.githubusercontent.com/67871338/90343934-29cb9700-dfe3-11ea-9cdf-74617d608bc1.PNG">
-
  
 ### 2. How is the school summary affected?
+
+
+
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ### 4. How does replacing the ninth-grade scores affect the following: 
 ####    - Math and reading scores by grade
