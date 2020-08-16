@@ -38,6 +38,16 @@ By eliminating the ninth-grade scores, Thomas High School's math and reading per
 
 ### 4. How does replacing the ninth-grade scores affect the following: 
 ####    - Math and reading scores by grade
+For math and reading scores by grade, the only metrics affected are those for ninth-grade Thomas High School, which was the only area that was altered. These scores now show up as "nan" because they do not currently have scores. None of the other grades change because their data was not altered. 
+
+Math Scores By Grade: 
+<img width="230" alt="grades_per_school_1_math" src="https://user-images.githubusercontent.com/67871338/90344796-2c31ef00-dfeb-11ea-94ad-29d629636077.PNG">
+<img width="232" alt="grades_per_school_2_math" src="https://user-images.githubusercontent.com/67871338/90344802-3522c080-dfeb-11ea-88eb-33dc5d75e25e.PNG">
+
+Reading Scores By Grade: 
+<img width="231" alt="grades_per_school_1_reading" src="https://user-images.githubusercontent.com/67871338/90344819-48359080-dfeb-11ea-89f8-619f3fcaa174.PNG">
+<img width="232" alt="grades_per_school_2_reading" src="https://user-images.githubusercontent.com/67871338/90344823-4a97ea80-dfeb-11ea-8646-5175c92a5bdc.PNG">
+
 ####    - Scores by school spending
 ####    - Scores by school size
 ####    - Scores by school type
